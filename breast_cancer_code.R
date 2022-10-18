@@ -1,4 +1,4 @@
-# Christian D'Andrea
+# 
 # PSY 810 Project
 # June 9 2020
 
